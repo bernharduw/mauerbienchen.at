@@ -1,0 +1,6 @@
+# Redirect domain aliases to primary domain
+http://mauerbienchen.eu/* http://mauerbienchen.at/:splat 301!
+http://mauerbienchen.com/* http://mauerbienchen.at/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+# http://mauerbienchen.netlify.com/* http://mauerbienchen.at/:splat 301!
