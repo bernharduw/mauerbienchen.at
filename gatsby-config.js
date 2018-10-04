@@ -11,7 +11,7 @@ module.exports = {
         short_name: 'mauerbienchen',
         start_url: '/',
         background_color: '#e6c700',
-        theme_color: '#e6c700',
+        theme_color: '#f5d400',
         display: 'minimal-ui',
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
       },
